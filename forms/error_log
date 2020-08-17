@@ -1,0 +1,26 @@
+[17-Apr-2020 15:48:02 America/Fortaleza] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home/epicacre/public_html/lass/locacao.php on line 3
+[17-Apr-2020 15:48:02 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home/epicacre/public_html/lass/locacao.php on line 3
+[17-Apr-2020 16:55:07 America/Fortaleza] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'epicacre_sitelas'@'localhost' to database 'epicacre_lassmaquinas' in /home/epicacre/public_html/lass/conexao.php on line 11
+[17-Apr-2020 16:55:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/epicacre/public_html/lass/conexao.php:13
+Stack trace:
+#0 /home/epicacre/public_html/lass/locacao.php(3): include_once()
+#1 {main}
+  thrown in /home/epicacre/public_html/lass/conexao.php on line 13
+[17-Apr-2020 16:58:43 America/Fortaleza] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'epicacre_sitelas'@'localhost' to database 'epicacre_lassmaquinas' in /home/epicacre/public_html/lass/conexao.php on line 11
+[17-Apr-2020 16:58:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/epicacre/public_html/lass/conexao.php:13
+Stack trace:
+#0 /home/epicacre/public_html/lass/locacao.php(3): include_once()
+#1 {main}
+  thrown in /home/epicacre/public_html/lass/conexao.php on line 13
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88
+[20-Apr-2020 18:44:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home/epicacre/public_html/lass/maquina.php on line 88

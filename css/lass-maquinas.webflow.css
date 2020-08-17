@@ -1,0 +1,2399 @@
+.dropdown-link-3-copy4 {
+  color: #fff;
+  font-style: normal;
+}
+
+.dropdown-link-3-copy4:hover {
+  color: #2c2c2c;
+}
+
+.dropdown-link-3-copy4.w--current {
+  color: #2c2c2c;
+}
+
+.navbar-copy {
+  position: fixed;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 100;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  background-color: #08528b;
+  box-shadow: 0 7px 20px -20px #000;
+}
+
+.container-3 {
+  width: 94vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.dropdown-list-2 {
+  background-color: #1d6d8a;
+}
+
+.dropdown-list-2.w--open {
+  box-shadow: 0 1px 6px -3px #000;
+}
+
+.nav-link-copy-copy {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  color: #000;
+}
+
+.nav-link-copy-copy:hover {
+  color: #1d6d8a;
+  text-decoration: none;
+}
+
+.nav-link-copy-copy.w--current {
+  color: #1d6d8a;
+}
+
+.nav-li {
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0px solid #000;
+  border-radius: 10px;
+  background-color: rgba(230, 180, 56, 0);
+  color: #fff;
+  font-weight: 700;
+}
+
+.nav-li:hover {
+  background-color: #08528b;
+  color: #fcc53b;
+}
+
+.nav-link {
+  color: #fff;
+  font-weight: 700;
+}
+
+.nav-link:hover {
+  color: #e6b438;
+  text-decoration: none;
+}
+
+.nav-link.w--current {
+  color: #1d6d8a;
+}
+
+.dropdown-link-4 {
+  color: #fff;
+}
+
+.dropdown-link-4:hover {
+  color: #2c2c2c;
+}
+
+.dropdown-link-4.w--current {
+  color: #fff;
+}
+
+.image-5 {
+  width: 120px;
+  height: auto;
+  margin-top: 1vh;
+  text-align: left;
+}
+
+.icon {
+  margin-top: 0px;
+  background-color: #fff;
+}
+
+.brand-7 {
+  width: 8.5vw;
+  margin-top: 0vh;
+  padding-right: 0vw;
+  padding-left: 0vw;
+}
+
+.text-block {
+  background-color: hsla(0, 0%, 100%, 0);
+  color: #fff;
+  font-weight: 700;
+}
+
+.text-block:hover {
+  color: #e6b438;
+}
+
+.div-block {
+  padding-right: 14vw;
+  padding-left: 14vw;
+}
+
+.image-6 {
+  margin-right: 10px;
+}
+
+.image-6:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.section {
+  height: 40.1vw;
+  margin-top: 11vh;
+  background-image: url('../images/tudo-em-um-so-lugar-pecas-maquinas-lass-maquinas-tiete.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+  box-shadow: 0 0 3px 0 #000;
+}
+
+.container-4 {
+  background-color: #08528b;
+}
+
+.div-block-2 {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 1190px;
+  margin-top: -86px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  background-color: #08528b;
+  box-shadow: 1px 1px 11px 1px #000;
+}
+
+.image-7 {
+  width: 170px;
+  height: auto;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+  border-radius: 15px;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.image-7:hover {
+  border: 5px solid #fcc53b;
+}
+
+.image-7-yellowbg {
+  height: 20vh;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding-right: 4vw;
+  padding-left: 4vw;
+  background-color: #fdc624;
+}
+
+.image-7-copy {
+  width: 90px;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding: 3vh 7vh;
+  background-color: #fdc624;
+}
+
+.div-block-3 {
+  width: 10vw;
+  background-color: #fdc624;
+}
+
+.image-8 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image-7-blue {
+  width: auto;
+  height: 9vw;
+  margin-right: 4vw;
+  margin-left: 4vw;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.image-7-blue-copy {
+  width: auto;
+  height: 9vw;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding: 3vh 4vw;
+  background-color: #fdc624;
+}
+
+.image-7-copy {
+  width: 170px;
+  height: auto;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+}
+
+.image-7-bluebg {
+  width: 170px;
+  height: auto;
+  margin-right: 0vw;
+  margin-left: 0vw;
+  padding-top: 0vh;
+  padding-bottom: 0vh;
+  border-radius: 15px;
+  background-color: #fcc53b;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.image-7-bluebg:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.div-block-2-copy {
+  display: none;
+  width: 1190px;
+  margin-top: -86px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  background-color: #08528b;
+}
+
+.div-block-2-copy-copy {
+  display: none;
+  width: 1190px;
+  margin-top: -86px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  background-color: #08528b;
+}
+
+.body {
+  background-color: #e4e4e4;
+}
+
+.heading {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  text-align: center;
+}
+
+.section-3 {
+  height: 100px;
+  font-weight: 700;
+}
+
+.section-4 {
+  padding-top: 20px;
+  background-color: #fff;
+}
+
+.div-block-5 {
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/para-empresa_linha-movimentacao-alugar-comprar.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.div-block-6 {
+  width: 28vw;
+  height: 500px;
+  margin-top: 0px;
+  margin-left: 54vw;
+  padding-top: 5vh;
+}
+
+.heading-2 {
+  margin-top: 0px;
+  margin-bottom: 60px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 2.6vw;
+}
+
+.paragraph {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 1.1vw;
+  line-height: 1.8vw;
+}
+
+.columns {
+  margin-top: 8vh;
+}
+
+.button-2 {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #fcc53b;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-2:hover {
+  border: 3px solid #fcc53b;
+  background-color: #08528b;
+  color: #fcc53b;
+}
+
+.column-3 {
+  padding-top: 15px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.image-9 {
+  display: block;
+  width: 70px;
+  margin-right: 0px;
+  margin-left: auto;
+  -webkit-transition: opacity 200ms ease;
+  transition: opacity 200ms ease;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.image-9:hover {
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+  -webkit-perspective: 588px;
+  perspective: 588px;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+}
+
+.section-5 {
+  display: none;
+  height: 200px;
+}
+
+.div-block-5-copy {
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/linha-maquinario-construction-yanmar-xcmg.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.div-block-6-copy {
+  width: 28vw;
+  height: 500px;
+  margin-top: 0px;
+  margin-left: 19vw;
+  padding-top: 12vh;
+}
+
+.diveblock5 {
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/aluguel-de-maquinas-movimentacao.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.button-2-copy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #08528b;
+  color: #fcc53b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.div-block-9 {
+  display: none;
+}
+
+.div-block-9-copy {
+  display: none;
+}
+
+.button-2-copy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #fcc53b;
+  color: #08528b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-2-copy-copy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #fcc53b;
+  color: #08528b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.section-4-copy {
+  padding-top: 20px;
+  background-color: #fff;
+}
+
+.section-6 {
+  height: 43.7vw;
+  padding-top: 15vw;
+  background-image: url('../images/locacao-de-empilhadeira-maquinas-em-geral.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.columns-2 {
+  margin-top: 0vw;
+}
+
+.paragraph-2 {
+  width: 23vw;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 1.1vw;
+  line-height: 1.8vw;
+}
+
+.column-4 {
+  padding-top: 5vh;
+  padding-left: 27vw;
+}
+
+.column-5 {
+  padding-left: 0px;
+}
+
+.column-4-copy {
+  padding-top: 0vh;
+  padding-right: 7vw;
+  padding-left: 18vw;
+}
+
+.columns-copy {
+  margin-top: 5vh;
+  margin-bottom: 0px;
+}
+
+.column-5-copy {
+  padding-top: 10px;
+  padding-left: 0px;
+}
+
+.image-9-copy {
+  display: block;
+  width: 60px;
+  margin-right: 0px;
+  margin-left: auto;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.image-9-copy:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.button-2-copyy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #fcc53b;
+  box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.37);
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-2-copyy:hover {
+  box-shadow: 7px 7px 4px 0 rgba(0, 0, 0, 0.51);
+}
+
+.div-block-10 {
+  display: none;
+}
+
+.columns-copy-copy {
+  margin-top: 10vh;
+}
+
+.image-9-copy-copy {
+  display: block;
+  width: 60px;
+  margin-right: 0px;
+  margin-left: auto;
+}
+
+.column-5-copy-copy {
+  padding-top: 10px;
+  padding-left: 0px;
+}
+
+.section-6-copy {
+  height: 38vw;
+  padding-top: 15vw;
+  background-image: url('../images/comprar-camso-pneu-para-maquinas-e-tratores.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.column-9 {
+  padding-right: 18vw;
+  padding-left: 7vw;
+}
+
+.section-6-copy-copy {
+  height: 49vw;
+  padding-top: 15vw;
+  background-image: url('../images/comprar-peças-para-maquinas.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.column-4-copy-copy {
+  padding-top: 5vh;
+  padding-right: 7vw;
+  padding-left: 18vw;
+}
+
+.section-7 {
+  padding-top: 5vw;
+  padding-bottom: 5vw;
+  background-color: #fff;
+}
+
+.button-2-copyy-copy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #fcc53b;
+  color: #08528b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-2-big {
+  display: block;
+  width: 40%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 40px;
+  background-color: #fcc53b;
+  box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.41);
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.button-2-big:hover {
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.67);
+}
+
+.section-8 {
+  padding-right: 14vw;
+  padding-left: 14vw;
+  background-color: #fff;
+}
+
+.div-block-11 {
+  width: auto;
+  height: 44vh;
+  background-image: url('../images/conserto-de-maquina-assistencia-tecnica.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.div-block-11:hover {
+  position: relative;
+  z-index: 1;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.div-block-12 {
+  position: absolute;
+  left: 0%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  height: 44vh;
+  margin-left: 0%;
+  padding-top: 0%;
+  background-image: url('../images/comprar-maquina-com-pos-venda-melhor-posvenda.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.div-block-12:hover {
+  position: relative;
+  z-index: 1;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.div-block-13 {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  width: 70%;
+  height: 140px;
+  margin-left: 0%;
+  padding-top: 10px;
+  padding-right: 1.5vw;
+  padding-left: 1.5vw;
+  background-color: rgba(8, 82, 139, 0.77);
+}
+
+.column-10 {
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+.column-11 {
+  padding-right: 0px;
+  padding-left: 10px;
+}
+
+.heading-3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 20px;
+  line-height: 37px;
+  font-weight: 700;
+}
+
+.paragraph-4 {
+  width: 21vw;
+  background-color: hsla(0, 0%, 100%, 0);
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 14px;
+}
+
+.div-block-13-copy {
+  position: absolute;
+  left: 0%;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  width: 80%;
+  height: 120px;
+  margin-left: 0px;
+  padding-top: 10px;
+  padding-right: 1.5vw;
+  padding-left: 1.5vw;
+  background-color: rgba(8, 82, 139, 0.77);
+}
+
+.section-9 {
+  padding: 3vw 14vw;
+  background-color: #fff;
+}
+
+.column-12 {
+  padding-right: 10px;
+  padding-left: 0px;
+}
+
+.section-10 {
+  height: 30vh;
+  padding: 1vh 14vw;
+  background-image: url('../images/comprar-alugar-maquinas-industriais.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.html-embed {
+  height: auto;
+}
+
+.html-embed-copy {
+  display: none;
+}
+
+.html-embed-contact-form {
+  text-align: center;
+}
+
+.heading-4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #e6b438;
+  font-size: 30px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.html-embed-newsletter {
+  text-align: center;
+}
+
+.div-block-14 {
+  width: 40%;
+  margin-top: 3vh;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: hsla(0, 0%, 100%, 0.38);
+  color: #000;
+}
+
+.section-11 {
+  padding: 5vh 14vw 10vh;
+  background-color: #454545;
+}
+
+.heading-4-copy {
+  margin-top: 0px;
+  font-family: 'Open Sans', sans-serif;
+  color: #e6b438;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.paragraph-5 {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+}
+
+.button-2-copy-copy {
+  display: block;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 15px 20px;
+  border-radius: 20px;
+  background-color: #08528b;
+  font-family: 'Open Sans', sans-serif;
+  color: #fcc53b;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button-2-copy-copy:hover {
+  border: 3px solid #08528b;
+  background-color: #fcc53b;
+  color: #08528b;
+}
+
+.image-10 {
+  width: 150px;
+}
+
+.image-11 {
+  margin-right: 10px;
+}
+
+.section-12 {
+  height: 40px;
+  padding-top: 10px;
+  padding-right: 14vw;
+  padding-left: 14vw;
+  background-color: #454545;
+}
+
+.section-12:hover {
+  background-color: #fd0000;
+}
+
+.paragraph-6 {
+  position: static;
+  height: auto;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.paragraph-6:hover {
+  width: 281px;
+  border-bottom: 5px solid #fff;
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.image-12 {
+  display: block;
+  width: 210px;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.image-13 {
+  display: none;
+}
+
+.slider {
+  display: none;
+}
+
+.slider-2 {
+  height: 40.1vw;
+}
+
+.slide-nav {
+  display: none;
+}
+
+.icon-3 {
+  color: #fff;
+}
+
+.icon-4 {
+  color: #fff;
+}
+
+.image-usa {
+  -webkit-transform: scale3d(1none, 1none, 1none);
+  transform: scale3d(1none, 1none, 1none);
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.image-usa:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.image-14 {
+  width: 100%;
+  height: 40.1vw;
+}
+
+.image-15 {
+  width: 100%;
+  height: 40.1vw;
+}
+
+.image-16 {
+  width: 100%;
+  height: 40.1vw;
+}
+
+.image-17 {
+  width: 100%;
+  height: 40.1vw;
+}
+
+.div-block-15 {
+  display: none;
+}
+
+.div-block-16 {
+  margin-top: 60px;
+}
+
+.image-24 {
+  display: block;
+  width: 30vw;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.heading-copyyy {
+  margin-top: 60px;
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 38px;
+  text-align: center;
+}
+
+.heading-copyyy-copy {
+  margin-top: 10px;
+  margin-bottom: 40px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  text-align: center;
+}
+
+.mov {
+  margin-top: 60px;
+}
+
+.construction {
+  margin-top: 60px;
+}
+
+.parts {
+  margin-top: 60px;
+}
+
+.pneus {
+  margin-top: 60px;
+}
+
+.plataformas {
+  margin-top: 60px;
+}
+
+.geradores {
+  margin-top: 60px;
+}
+
+.locacao {
+  margin-top: 60px;
+}
+
+.div-block-17 {
+  width: 84.4vw;
+}
+
+.html-embed-2 {
+  color: #333;
+  text-align: center;
+}
+
+.div-block-6-copyyyy {
+  width: 28vw;
+  height: 500px;
+  margin-top: 0px;
+  margin-left: 54vw;
+  padding-top: 0vh;
+}
+
+.heading-2-copyyy {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 2vw;
+  text-align: center;
+}
+
+.div-block-6-copy-copy {
+  width: 28vw;
+  height: 500px;
+  margin-top: 0px;
+  margin-left: 19vw;
+  padding-top: 0vh;
+}
+
+.construction-solicite {
+  display: none;
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/linha-maquinario-construction-yanmar-xcmg.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.divblock5 {
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/aluguel-de-maquinas-movimentacao.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.industrial-solicite {
+  display: none;
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/linha-movimentacao-alugar-comprar.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.fechar {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  font-size: 1vw;
+  line-height: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.movimentacao-solicite {
+  display: none;
+  height: 37.7vw;
+  padding-top: 30px;
+  background-image: url('../images/aluguel-de-maquinas-movimentacao.jpg');
+  background-position: 0px 0px;
+  background-size: cover;
+}
+
+.locar-solicite {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.fechar-2 {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 1vw;
+  line-height: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.heading-2-copyyy-copy {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 2vw;
+  text-align: center;
+}
+
+.pecas-solicite {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.pneus-solicite {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.pneus-solicite-mobile {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.pecas-solicite-mobile {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.loca-solicite-mobile {
+  display: none;
+  width: 28vw;
+  height: 400px;
+  margin-top: 0px;
+  margin-left: 0vw;
+  padding-top: 0vh;
+}
+
+.html-embed-contact-form-copy {
+  text-align: center;
+}
+
+.heading-copyyy-copy-copy {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  text-align: center;
+}
+
+.heading-copyyy-copy-copy {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  text-align: center;
+}
+
+.text-field {
+  width: 100%;
+  padding-left: 20px;
+  border-radius: 20px;
+  background-color: #e9e9e9;
+}
+
+.form {
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.submit-button {
+  display: block;
+  width: 22%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  background-color: #e6b438;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.heading-copyyy-copy-copy-copy {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #08528b;
+  font-size: 18px;
+  text-align: center;
+}
+
+@media screen and (max-width: 991px) {
+  .menu-button {
+    left: 0vh;
+  }
+  .menu-button.w--open {
+    background-color: #007eae;
+  }
+  .image-5 {
+    margin-top: 5px;
+  }
+  .nav-menu {
+    background-color: #007eae;
+  }
+  .brand-7 {
+    padding: 2px;
+  }
+  .brand-7.w--current {
+    padding: 19px;
+  }
+  .div-block {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .section {
+    margin-top: 6vh;
+  }
+  .div-block-2 {
+    display: none;
+    width: 560px;
+  }
+  .image-7 {
+    width: 140px;
+  }
+  .image-7-bluebg {
+    width: 140px;
+  }
+  .div-block-2-copy {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 560px;
+    margin-top: -35px;
+  }
+  .div-block-4 {
+    width: 420px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .div-block-2-copy-copy {
+    display: block;
+    width: 560px;
+    margin-top: -35px;
+  }
+  .section-2 {
+    display: none;
+  }
+  .heading {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .section-3 {
+    font-size: 12px;
+  }
+  .div-block-5 {
+    height: 37.4vw;
+  }
+  .div-block-6 {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .heading-2 {
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  .paragraph {
+    font-size: 12px;
+    line-height: 2.4vw;
+  }
+  .columns {
+    margin-top: 10px;
+  }
+  .button-2 {
+    padding: 10px;
+    font-size: 12px;
+  }
+  .column-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .image-9 {
+    margin-top: 10px;
+  }
+  .div-block-5-copy {
+    height: 37.4vw;
+  }
+  .div-block-6-copy {
+    width: 260px;
+    height: 200px;
+    margin-left: 16vw;
+    padding-top: 2%;
+  }
+  .diveblock5 {
+    height: 37.4vw;
+  }
+  .button-2-copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+  }
+  .div-block-9 {
+    display: none;
+  }
+  .div-block-9-copy {
+    display: none;
+  }
+  .button-2-copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+  }
+  .button-2-copy-copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+  }
+  .paragraph-2 {
+    width: 30vw;
+    font-size: 12px;
+  }
+  .column-4-copy {
+    padding-top: 0vh;
+    padding-left: 12vw;
+  }
+  .columns-copy {
+    margin-top: 10px;
+  }
+  .image-9-copy {
+    width: 50px;
+    margin-top: 0px;
+  }
+  .button-2-copyy {
+    width: 90%;
+    margin-left: 0px;
+    padding: 10px;
+    font-size: 12px;
+  }
+  .columns-copy-copy {
+    margin-top: 10px;
+  }
+  .image-9-copy-copy {
+    width: 50px;
+    margin-top: 0px;
+  }
+  .column-9 {
+    padding-right: 12vw;
+  }
+  .column-4-copy-copy {
+    padding-top: 0vh;
+    padding-left: 12vw;
+  }
+  .button-2-copyy-copy {
+    width: 90%;
+    margin-left: 0px;
+    padding: 10px;
+    font-size: 12px;
+  }
+  .button-2-big {
+    width: 65%;
+    margin-left: auto;
+    padding: 10px;
+    font-size: 12px;
+  }
+  .section-8 {
+    padding-right: 10vw;
+    padding-left: 10vw;
+  }
+  .div-block-11 {
+    height: 28vh;
+  }
+  .div-block-12 {
+    height: 28vh;
+  }
+  .div-block-13 {
+    width: 90%;
+    height: 140px;
+  }
+  .column-10 {
+    padding-right: 5px;
+  }
+  .column-11 {
+    padding-left: 5px;
+  }
+  .heading-3 {
+    font-size: 16px;
+  }
+  .paragraph-4 {
+    width: 33vw;
+    font-size: 12px;
+  }
+  .div-block-13-copy {
+    width: 90%;
+    margin-left: 5px;
+  }
+  .section-9 {
+    padding-right: 10vw;
+    padding-bottom: 5vw;
+    padding-left: 10vw;
+  }
+  .section-10 {
+    padding-right: 10vw;
+    padding-left: 10vw;
+  }
+  .heading-4 {
+    font-size: 28px;
+  }
+  .div-block-14 {
+    width: 60%;
+  }
+  .heading-4-copy {
+    font-size: 28px;
+  }
+  .button-2-copy-copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+  }
+  .image-12 {
+    width: 128px;
+  }
+  .slider-2 {
+    display: block;
+  }
+  .div-block-15 {
+    display: block;
+    margin-left: 80vw;
+  }
+  .image-22 {
+    margin-right: 10px;
+  }
+  .heading-copyyy {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .heading-copyyy-copy {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .div-block-6-copyyyy {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .heading-2-copyyy {
+    margin-bottom: 0px;
+    font-size: 18px;
+    line-height: 19px;
+  }
+  .div-block-6-copy-copy {
+    width: 260px;
+    height: 200px;
+    margin-left: 16vw;
+    padding-top: 2%;
+  }
+  .construction-solicite {
+    height: 37.4vw;
+  }
+  .divblock5 {
+    height: 37.4vw;
+  }
+  .industrial-solicite {
+    height: 37.4vw;
+    padding-top: 10px;
+  }
+  .fechar {
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .movimentacao-solicite {
+    height: 37.4vw;
+  }
+  .locar-solicite {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .fechar-2 {
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .heading-2-copyyy-copy {
+    margin-bottom: 0px;
+    font-size: 18px;
+    line-height: 19px;
+  }
+  .pecas-solicite {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .pneus-solicite {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .pneus-solicite-mobile {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .pecas-solicite-mobile {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .loca-solicite-mobile {
+    width: 260px;
+    margin-left: 51vw;
+    padding-top: 2%;
+  }
+  .heading-copyyy-copy-copy {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .heading-copyyy-copy-copy {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+  .form {
+    width: 100%;
+  }
+  .form-block {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .heading-copyyy-copy-copy-copy {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 54px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .menu-button {
+    left: 0vh;
+  }
+  .image-5 {
+    height: 7vw;
+    margin-top: 10px;
+  }
+  .brand-7 {
+    width: 15vw;
+  }
+  .icon-2 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(109, 68, 68, 0);
+    color: #fff;
+  }
+  .div-block {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .section {
+    margin-top: 8vh;
+  }
+  .div-block-2-copy {
+    width: 99%;
+    margin-top: 20px;
+  }
+  .div-block-2-copy-copy {
+    display: none;
+    margin-top: 20px;
+  }
+  .heading {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .div-block-5 {
+    height: 42vw;
+    padding-top: 0px;
+  }
+  .div-block-6 {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .heading-2 {
+    font-size: 20px;
+  }
+  .paragraph {
+    line-height: 3vw;
+  }
+  .button-2 {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 10px;
+  }
+  .image-9 {
+    margin-top: 15px;
+  }
+  .div-block-5-copy {
+    height: 42vw;
+    padding-top: 0px;
+    background-position: 80% 0%;
+  }
+  .div-block-6-copy {
+    width: 230px;
+    margin-left: 8vw;
+    padding-top: 0%;
+  }
+  .diveblock5 {
+    height: 42vw;
+    padding-top: 0px;
+  }
+  .button-2-copy {
+    font-size: 10px;
+  }
+  .div-block-9 {
+    display: none;
+  }
+  .div-block-9-copy {
+    display: none;
+  }
+  .button-2-copy {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 10px;
+  }
+  .button-2-copy-copy {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 10px;
+  }
+  .paragraph-2 {
+    width: 35vw;
+    font-size: 10px;
+  }
+  .column-4-copy {
+    padding-left: 10vw;
+  }
+  .image-9-copy {
+    margin-top: 0px;
+  }
+  .button-2-copyy {
+    padding: 5px 10px;
+    font-size: 10px;
+  }
+  .image-9-copy-copy {
+    margin-top: 0px;
+  }
+  .section-6-copy {
+    padding-top: 12vw;
+  }
+  .column-9 {
+    padding-right: 10vw;
+  }
+  .column-4-copy-copy {
+    padding-right: 7vw;
+    padding-left: 10vw;
+  }
+  .section-7 {
+    margin-top: 0px;
+  }
+  .button-2-copyy-copy {
+    padding: 5px 10px;
+    font-size: 10px;
+  }
+  .button-2-big {
+    width: 70%;
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+  .div-block-11 {
+    height: 250px;
+  }
+  .div-block-12 {
+    position: relative;
+    height: 250px;
+  }
+  .column-10 {
+    padding-right: 0px;
+  }
+  .column-11 {
+    margin-top: 20px;
+    padding-left: 0px;
+  }
+  .paragraph-4 {
+    width: 65vw;
+    font-size: 12px;
+  }
+  .div-block-13-copy {
+    margin-left: 0px;
+  }
+  .html-embed {
+    display: none;
+  }
+  .html-embed-copy {
+    display: block;
+    margin-top: 20px;
+  }
+  .html-embed-contact-form {
+    text-align: center;
+  }
+  .heading-4 {
+    font-size: 22px;
+  }
+  .html-embed-newsletter {
+    text-align: center;
+  }
+  .heading-4-copy {
+    font-size: 22px;
+  }
+  .button-2-copy-copy {
+    font-size: 10px;
+  }
+  .paragraph-6:hover {
+    border-bottom: 3px solid #fff;
+  }
+  .image-12 {
+    width: 100px;
+    margin-top: 10px;
+  }
+  .slider {
+    display: none;
+  }
+  .slider-2 {
+    width: 100%;
+  }
+  .div-block-15 {
+    position: relative;
+    top: 10px;
+    margin-top: 0px;
+    margin-left: 76vw;
+  }
+  .image-22 {
+    margin-right: 5px;
+  }
+  .mask {
+    width: 100%;
+  }
+  .heading-copyyy {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .heading-copyyy-copy {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .div-block-6-copyyyy {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .heading-2-copyyy {
+    font-size: 16px;
+  }
+  .div-block-6-copy-copy {
+    width: 230px;
+    margin-left: 8vw;
+    padding-top: 0%;
+  }
+  .construction-solicite {
+    height: 42vw;
+    padding-top: 10px;
+    background-position: 80% 0%;
+  }
+  .divblock5 {
+    height: 42vw;
+    padding-top: 0px;
+  }
+  .industrial-solicite {
+    height: 42vw;
+    padding-top: 10px;
+  }
+  .fechar {
+    font-size: 12px;
+  }
+  .movimentacao-solicite {
+    height: 42vw;
+    padding-top: 10px;
+  }
+  .locar-solicite {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .fechar-2 {
+    font-size: 12px;
+  }
+  .heading-2-copyyy-copy {
+    font-size: 16px;
+  }
+  .pecas-solicite {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .pneus-solicite {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .pneus-solicite-mobile {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .pecas-solicite-mobile {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .loca-solicite-mobile {
+    width: 230px;
+    height: 200px;
+    margin-left: 55vw;
+    padding-top: 0%;
+  }
+  .html-embed-contact-form-copy {
+    text-align: center;
+  }
+  .heading-copyyy-copy-copy {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .heading-copyyy-copy-copy {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+  .submit-button {
+    width: 30%;
+  }
+  .columns-4 {
+    display: none;
+  }
+  .heading-copyyy-copy-copy-copy {
+    margin-top: 40px;
+    font-size: 28px;
+    line-height: 45px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .navbar-copy {
+    margin-left: -3px;
+  }
+  .menu-button {
+    position: relative;
+    left: 0vh;
+    z-index: 100;
+    display: block;
+    margin-top: 5px;
+    float: right;
+    clear: none;
+  }
+  .nav-link-copy-copy {
+    padding-top: 20px;
+  }
+  .nav-link-copy-copy:hover {
+    color: #fff;
+  }
+  .nav-link:hover {
+    color: #fff;
+  }
+  .nav-link.w--current {
+    color: #fff;
+  }
+  .image-5 {
+    width: 90px;
+    height: auto;
+    margin-top: 0px;
+  }
+  .nav-menu {
+    display: none;
+  }
+  .icon {
+    padding-top: 20px;
+  }
+  .brand-7 {
+    width: auto;
+    padding: 19px 19px 19px 0px;
+  }
+  .div-block {
+    display: block;
+    padding-right: 7.5vw;
+    padding-left: 7.5vw;
+  }
+  .section {
+    height: 36.7em;
+    margin-top: 10vh;
+    background-image: url('../images/tudo-em-um-so-lugar-construction-movimentacao-pecas.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .image-7 {
+    display: block;
+    width: 140px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    padding-right: 0px;
+    border-radius: 15px;
+    background-color: #08528b;
+  }
+  .image-7-bluebg {
+    display: block;
+    width: 140px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .div-block-2-copy {
+    display: none;
+    width: 100%;
+  }
+  .div-block-4 {
+    width: 100%;
+  }
+  .div-block-2-copy-copy {
+    display: block;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0vw;
+    padding-left: 0vw;
+    background-color: rgba(8, 82, 139, 0);
+  }
+  .column {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .column-2 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .section-2 {
+    display: block;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: #e4e4e4;
+  }
+  .heading {
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .section-4 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .div-block-5 {
+    display: none;
+  }
+  .div-block-6 {
+    display: none;
+  }
+  .heading-2 {
+    margin-bottom: 0px;
+  }
+  .paragraph {
+    line-height: 18px;
+  }
+  .columns {
+    margin-top: 3vh;
+  }
+  .button-2:hover {
+    background-color: #08528b;
+    color: #fcc53b;
+  }
+  .column-3 {
+    padding-top: 5px;
+  }
+  .image-9 {
+    width: 12vw;
+    margin-top: 0px;
+  }
+  .div-block-5-copy {
+    display: none;
+  }
+  .diveblock5 {
+    display: none;
+  }
+  .div-block-7 {
+    width: 100%;
+    height: 230px;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-movimentacao-bl.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .div-block-8 {
+    margin-top: 0px;
+  }
+  .div-block-9 {
+    display: block;
+  }
+  .div-block-9:active {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  .div-block-9-copy {
+    display: block;
+    margin-top: 10px;
+  }
+  .div-block-9-copy:active {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  .div-block-7-copy {
+    width: 100%;
+    height: 70vw;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-construcao-yel.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .button-2-copy {
+    background-color: #fcc53b;
+    color: #08528b;
+  }
+  .button-2-copy:hover {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #fcc53b;
+    background-color: #08528b;
+    color: #fcc53b;
+  }
+  .div-block-7-copy-copy {
+    width: 100%;
+    height: 70vw;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-empilhadeira-bl.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .button-2-copy-copy {
+    background-color: #08528b;
+    color: #fcc53b;
+  }
+  .button-2-copy-copy:hover {
+    background-color: #fcc53b;
+    color: #08528b;
+  }
+  .section-4-copy {
+    display: none;
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .section-6 {
+    height: auto;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: #fff;
+    background-image: none;
+  }
+  .columns-2 {
+    display: none;
+  }
+  .columns-copy {
+    margin-top: 3vh;
+  }
+  .image-9-copy {
+    width: 12vw;
+    margin-top: 0px;
+  }
+  .button-2-copyy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .button-2-copyy:hover {
+    background-color: #08528b;
+    color: #fcc53b;
+  }
+  .paragraph-3 {
+    font-family: 'Open Sans', sans-serif;
+    color: #10578e;
+  }
+  .div-block-10 {
+    display: block;
+  }
+  .columns-copy-copy {
+    margin-top: 0vh;
+  }
+  .image-9-copy-copy {
+    width: 13vw;
+    margin-top: 0px;
+  }
+  .image-9-copy-copy:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  .column-5-copy-copy {
+    padding-top: 0px;
+  }
+  .column-6 {
+    margin-top: 5px;
+  }
+  .column-7 {
+    margin-top: 5px;
+  }
+  .column-8 {
+    padding-top: 5px;
+  }
+  .section-6-copy {
+    height: auto;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: #fff;
+    background-image: none;
+  }
+  .section-6-copy-copy {
+    height: auto;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: #fff;
+    background-image: none;
+  }
+  .section-7 {
+    padding: 15vw 5vw;
+  }
+  .button-2-copyy-copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .button-2-big {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .section-8 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .div-block-11 {
+    height: 230px;
+  }
+  .div-block-12 {
+    height: 230px;
+    background-position: 0px 0px;
+  }
+  .div-block-13 {
+    height: 150px;
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .paragraph-4 {
+    width: 72vw;
+  }
+  .div-block-13-copy {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .section-9 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-color: #fff;
+  }
+  .section-10 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .column-13 {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .heading-4 {
+    font-size: 16px;
+  }
+  .div-block-14 {
+    width: 90%;
+  }
+  .section-11 {
+    padding-right: 5vw;
+    padding-left: 5vw;
+  }
+  .heading-4-copy {
+    font-size: 16px;
+  }
+  .column-14 {
+    padding-bottom: 20px;
+  }
+  .column-15 {
+    padding-top: 20px;
+  }
+  .column-16 {
+    padding-top: 20px;
+  }
+  .paragraph-6 {
+    font-size: 12px;
+    text-align: center;
+  }
+  .paragraph-6:hover {
+    border-bottom: 3px solid #fff;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  .image-13 {
+    display: block;
+    width: 70%;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .slider {
+    display: block;
+    height: 36.7em;
+  }
+  .left-arrow {
+    display: none;
+  }
+  .right-arrow {
+    display: none;
+  }
+  .slider-2 {
+    display: none;
+  }
+  .image-18 {
+    width: 100%;
+  }
+  .image-19 {
+    width: 100%;
+  }
+  .image-20 {
+    width: 100%;
+  }
+  .image-21 {
+    width: 100%;
+  }
+  .columns-3 {
+    width: 100%;
+  }
+  .div-block-15 {
+    position: relative;
+    top: 25px;
+    width: 30%;
+    margin-left: 67vw;
+  }
+  .image-22 {
+    margin-right: 10px;
+  }
+  .image-22:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  .image-23:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+  .heading-copyyy {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .heading-copyyy-copy {
+    font-size: 14px;
+    line-height: 32px;
+  }
+  .div-block-6-copyyyy {
+    display: none;
+  }
+  .heading-2-copyyy {
+    margin-bottom: 0px;
+  }
+  .construction-solicite {
+    display: none;
+  }
+  .divblock5 {
+    display: none;
+  }
+  .industrial-solicite {
+    display: none;
+  }
+  .fechar {
+    margin-bottom: 10px;
+  }
+  .movimentacao-solicite {
+    display: none;
+  }
+  .movimentacao-solicite-mobile {
+    display: none;
+    width: 100%;
+    height: 230px;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-movimentacao-bl.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .construction-solicite-mobile {
+    display: none;
+    width: 100%;
+    height: 88vw;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-construcao-yel.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .industrial-solicite-mobile {
+    display: none;
+    width: 100%;
+    height: 88vw;
+    padding-top: 1vh;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    background-image: url('../images/aluguel-de-maquinas-empilhadeira-bl.jpg');
+    background-position: 0px 0px;
+    background-size: cover;
+  }
+  .locar-solicite {
+    display: none;
+  }
+  .fechar-2 {
+    margin-bottom: 10px;
+  }
+  .heading-2-copyyy-copy {
+    margin-bottom: 0px;
+  }
+  .pecas-solicite {
+    display: none;
+  }
+  .pneus-solicite {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .pneus-solicite-mobile {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .pecas-solicite-mobile {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .loca-solicite-mobile {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .heading-copyyy-copy-copy {
+    font-size: 14px;
+    line-height: 32px;
+  }
+  .heading-copyyy-copy-copy {
+    font-size: 14px;
+    line-height: 32px;
+  }
+  .submit-button {
+    width: 45%;
+  }
+  .heading-copyyy-copy-copy-copy {
+    font-size: 14px;
+    line-height: 32px;
+  }
+}
